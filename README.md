@@ -1,1 +1,5 @@
 # tadb202520_examen_02
+Parcial #2 de Topicos Avanzados en Base de datos En este repositorio se encuentra toda la documentacion de la implementacion del primer parcial de topicos avanzados en BD. El repositorio contiene todos los datos pedidos en el examen
+
+Datos: Dentro de esta carpeta se encuentran los archivos sql y los archivos xlsx. El archivo Consultas.sql contiene las Query usadas para los dos consultas pedidas en el documento, adicional a esto estan los respectivos resultados en los archivos de excel que se enceuntran en la carpeta. El archivo Modelo_datosPostgres.sql contiene toda la logica de la creacion de toda la base de datos, incluyendo la creacion del usuario, la asignacion de ciertos privilegios, creacion de tablas, vistas, funciones y procedimientos almacenados
+Documentos: Dentro de esta carpeta se encuentran los pdf pedidos en la guia, Diagrama_BD, es la imagen del diagrama que se utilizo durante el examen, interaccion IA contiene los detalles en los que la IA me ayudo y por ulitmo Procesos_abastecimiento contiene el paso a paso de la creacion del docker, creacion del usuario, asignacion de permisos y conexion con el IDE DataGrip.
